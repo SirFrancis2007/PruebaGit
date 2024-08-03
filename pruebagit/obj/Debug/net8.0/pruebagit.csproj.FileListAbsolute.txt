@@ -1,0 +1,14 @@
+C:\Users\GARCIA\Desktop\Git\pruebagit\bin\Debug\net8.0\pruebagit.exe
+C:\Users\GARCIA\Desktop\Git\pruebagit\bin\Debug\net8.0\pruebagit.deps.json
+C:\Users\GARCIA\Desktop\Git\pruebagit\bin\Debug\net8.0\pruebagit.runtimeconfig.json
+C:\Users\GARCIA\Desktop\Git\pruebagit\bin\Debug\net8.0\pruebagit.dll
+C:\Users\GARCIA\Desktop\Git\pruebagit\bin\Debug\net8.0\pruebagit.pdb
+C:\Users\GARCIA\Desktop\Git\pruebagit\obj\Debug\net8.0\pruebagit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GARCIA\Desktop\Git\pruebagit\obj\Debug\net8.0\pruebagit.AssemblyInfoInputs.cache
+C:\Users\GARCIA\Desktop\Git\pruebagit\obj\Debug\net8.0\pruebagit.AssemblyInfo.cs
+C:\Users\GARCIA\Desktop\Git\pruebagit\obj\Debug\net8.0\pruebagit.csproj.CoreCompileInputs.cache
+C:\Users\GARCIA\Desktop\Git\pruebagit\obj\Debug\net8.0\pruebagit.dll
+C:\Users\GARCIA\Desktop\Git\pruebagit\obj\Debug\net8.0\refint\pruebagit.dll
+C:\Users\GARCIA\Desktop\Git\pruebagit\obj\Debug\net8.0\pruebagit.pdb
+C:\Users\GARCIA\Desktop\Git\pruebagit\obj\Debug\net8.0\pruebagit.genruntimeconfig.cache
+C:\Users\GARCIA\Desktop\Git\pruebagit\obj\Debug\net8.0\ref\pruebagit.dll
